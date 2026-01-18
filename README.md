@@ -11,7 +11,7 @@ You can run it by writing the image to a physical floppy disk, but using a virtu
 # How to Run
 1. Create a new virtual machine in VMware.
 2. Add a Floppy Drive to the created VM.
-3. Load the os.img file into the floppy drive.
+3. Load the `os.img` file into the floppy drive.
 4. Power on the VM to run.
 
 # Commands
