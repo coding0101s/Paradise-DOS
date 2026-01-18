@@ -23,6 +23,8 @@ You can run it by writing the image to a physical floppy disk, but using a virtu
 If you encounter any issues, please contact: coding0101bus@gmail.com
 
 # Side Note
-When you run the exit command, the message "It's now safe to turn off your computer." will appear. This is not a bug.
+When you run the exit command, the message "It's now safe to turn off your computer." will appear.
+
+**This is not a bug.**
 Shutting down modern hardware using only Assembly in a DOS environment is extremely complex. Therefore,
 this message is provided as a guide; you may simply turn off your computer (or VM) manually at that point.
