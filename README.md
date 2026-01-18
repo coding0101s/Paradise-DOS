@@ -18,7 +18,8 @@ You can run it by writing the image to a physical floppy disk, but using a virtu
 ver: Displays the current version.
 clear: Clears the screen.
 exit: Exits the system.
-Bug Reports
+
+# Bug Reports
 If you encounter any issues, please contact: coding0101bus@gmail.com
 
 # Side Note
