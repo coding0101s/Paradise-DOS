@@ -5,6 +5,7 @@ This project is being developed independently by a 14-year-old developer.
 
 # Structure
 The project consists of image files (`.img`) and source files, organized into folders by version. 
+
 **The latest version of the `.img` file is located in the root project folder for easy access.**
 
 # How to Run
