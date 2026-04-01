@@ -1,7 +1,7 @@
 This project aims to create a functional DOS that runs on modern computers, developed exclusively using Assembly language.
 
 # Author
-This project is being developed independently by a 14-year-old developer.
+This project is being developed independently by a 15-year-old developer.
 
 # Structure
 The project consists of image files (`.img`) and source files, organized into folders by version. 
